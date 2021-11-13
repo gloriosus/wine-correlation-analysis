@@ -1,0 +1,77 @@
+                      fixed acidity  volatile acidity  citric acid  \
+fixed acidity                  1.00             -0.26         0.66
+volatile acidity              -0.26              1.00        -0.57
+citric acid                    0.66             -0.57         1.00
+residual sugar                 0.21              0.05         0.18
+chlorides                      0.26              0.15         0.15
+free sulfur dioxide           -0.17              0.02        -0.09
+total sulfur dioxide          -0.11              0.09        -0.00
+density                        0.67              0.04         0.36
+pH                            -0.72              0.23        -0.54
+sulphates                      0.19             -0.32         0.33
+alcohol                       -0.13             -0.22         0.11
+quality                        0.08             -0.33         0.16
+
+                      residual sugar  chlorides  free sulfur dioxide  \
+fixed acidity                   0.21       0.26                -0.17
+volatile acidity                0.05       0.15                 0.02
+citric acid                     0.18       0.15                -0.09
+residual sugar                  1.00       0.19                 0.08
+chlorides                       0.19       1.00                -0.01
+free sulfur dioxide             0.08      -0.01                 1.00
+total sulfur dioxide            0.15       0.08                 0.78
+density                         0.44       0.43                -0.04
+pH                             -0.08      -0.27                 0.09
+sulphates                       0.05       0.13                 0.05
+alcohol                         0.09      -0.34                -0.08
+quality                         0.00      -0.17                -0.06
+
+                      total sulfur dioxide  density    pH  sulphates  alcohol  \
+fixed acidity                        -0.11     0.67 -0.72       0.19    -0.13
+volatile acidity                      0.09     0.04  0.23      -0.32    -0.22
+citric acid                          -0.00     0.36 -0.54       0.33     0.11
+residual sugar                        0.15     0.44 -0.08       0.05     0.09
+chlorides                             0.08     0.43 -0.27       0.13    -0.34
+free sulfur dioxide                   0.78    -0.04  0.09       0.05    -0.08
+total sulfur dioxide                  1.00     0.10 -0.02       0.03    -0.23
+density                               0.10     1.00 -0.34       0.18    -0.50
+pH                                   -0.02    -0.34  1.00      -0.11     0.21
+sulphates                             0.03     0.18 -0.11       1.00     0.17
+alcohol                              -0.23    -0.50  0.21       0.17     1.00
+quality                              -0.20    -0.16 -0.00       0.31     0.43
+
+                      quality
+fixed acidity            0.08
+volatile acidity        -0.33
+citric acid              0.16
+residual sugar           0.00
+chlorides               -0.17
+free sulfur dioxide     -0.06
+total sulfur dioxide    -0.20
+density                 -0.16
+pH                      -0.00
+sulphates                0.31
+alcohol                  0.43
+quality                  1.00
+
+
+[[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 0.]
+ [1. 1. 1. 0. 1. 0. 1. 0. 1. 1. 1. 1.]
+ [1. 1. 1. 1. 1. 1. 0. 1. 1. 1. 1. 1.]
+ [1. 0. 1. 1. 1. 0. 1. 1. 0. 0. 1. 0.]
+ [1. 1. 1. 1. 1. 0. 1. 1. 1. 1. 1. 1.]
+ [1. 0. 1. 0. 0. 1. 1. 0. 1. 0. 0. 0.]
+ [1. 1. 0. 1. 1. 1. 1. 1. 0. 0. 1. 1.]
+ [1. 0. 1. 1. 1. 0. 1. 1. 1. 1. 1. 1.]
+ [1. 1. 1. 0. 1. 1. 0. 1. 1. 1. 1. 0.]
+ [1. 1. 1. 0. 1. 0. 0. 1. 1. 1. 1. 1.]
+ [1. 1. 1. 1. 1. 0. 1. 1. 1. 1. 1. 1.]
+ [0. 1. 1. 0. 1. 0. 1. 1. 0. 1. 1. 1.]]
+
+
+Множественный коэффициент корреляции: 0.5529762519436294
+Коэффициент детерминации: 0.3057827352136243
+Скорректированный коэффициент детерминации: 0.30097089531907484
+F-значение: 62.11743059999989
+Критическое значение F: 2.8621974542556723
+p-значение множественного коэффициента корреляции: 1.1102230246251565e-16

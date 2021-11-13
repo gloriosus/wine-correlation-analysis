@@ -1,0 +1,13 @@
+1, 3, 8, 9
+
+fixed acidity
+citric acid
+density
+pH
+
+4, 7, 8, 11
+
+residual sugar
+total sulfur dioxide
+density
+alcohol

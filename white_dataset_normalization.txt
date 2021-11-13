@@ -1,0 +1,11 @@
+fixed acidity - yes
+volatile acidity - yes
+citric acid - yes
+residual sugar - no
+chlorides - yes
+free sulfur dioxide - yes
+total sulfur dioxide - yes
+density - yes
+pH - yes
+sulphates - yes
+alcohol - no
