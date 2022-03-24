@@ -1,11 +1,11 @@
 # Multiple correlation analysis of wine quality
 
 The application consists of three preliminary modules that help to prepare the data by dichotomizing and normalizing the original dataset, and make histograms. The modules should be run before executing the main module in the following order:
-1. [[src/corr/dichotomizer.py|dichotomizer.py]]
-2. [[src/corr/normalization.py|normalization.py]]
-3. [[src/corr/histograms.py|histograms.py]]
+1. [dichotomizer.py](src/corr/dichotomizer.py)
+2. [normalization.py](src/corr/normalization.py)
+3. [histograms.py](src/corr/histograms.py)
 
-Then the "[[src/corr/main.py|main.py]]" module may be executed.
+Then the "[main.py](src/corr/main.py)" module may be executed.
 
 The original data file named "winequality-red.csv" is located in the data folder. There are also other data files that are already prepared for an analysis. So, the execution of the three preliminary modules may be skipped and the main module may be run with the "winequality-red-dichotomous-normalized.csv" file from the data folder.
 
